@@ -17,9 +17,9 @@ A sleek and simple **Tic Tac Toe** game built with **Flutter**, designed for smo
 
 ## 📸 Screenshots
 
-| Game Start | Home Screen | 
-|------------|--------------|
-| ![Start](screenshots/start.png) | ![Turns](screenshots/playing.png) |
+| Images | 
+|------------|
+| ![Start](ScreenShots/photos.png) | 
 
 ---
 
